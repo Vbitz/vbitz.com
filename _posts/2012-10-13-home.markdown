@@ -1,0 +1,26 @@
+---
+layout: page
+status: publish
+published: true
+title: About Me
+author: Vbitz
+author_login: Vbitz
+author_email: jscarsbrook@gmail.com
+wordpress_id: 5
+wordpress_url: http://50.116.0.238/?page_id=5
+date: 2012-10-13 00:55:14.000000000 +13:00
+categories: []
+tags: []
+comments: []
+---
+Well this is my blog. Firstly I hope that you as the reader will find the content of this blog helpful and interesting reading.
+
+It might be useful linking to my social networking pages.
+
+Twitter: <a title="https://twitter.com/vbitz" href="https://twitter.com/vbitz" target="_blank">https://twitter.com/vbitz</a>
+
+Youtube: <a title="http://www.youtube.com/vbitz0" href="http://www.youtube.com/vbitz0" target="_blank">http://www.youtube.com/vbitz0</a>
+
+Github: <a title="https://github.com/vbitz" href="https://github.com/vbitz" target="_blank">https://github.com/vbitz</a>
+
+Reddit: <a title="http://www.reddit.com/user/Vbitz/" href="http://www.reddit.com/user/Vbitz/" target="_blank">http://www.reddit.com/user/Vbitz/</a>
